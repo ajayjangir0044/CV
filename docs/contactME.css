@@ -30,7 +30,7 @@ input[type="email"] {
     border-bottom: 1px solid black;
 }
 
-button[type="submit"] {
+input[type="submit"] {
     border: none;
     outline: none;
     border-radius: 20px;
@@ -43,6 +43,6 @@ button[type="submit"] {
     background-color: #aacfcf;
 }
 
-button[type="submit"]:hover {
+input[type="submit"]:hover {
     color:green;
 }
