@@ -1,0 +1,40 @@
+
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-color: #EAF6F6;
+}
+h1{
+    font-size: 20px;
+    color: #66BFBF;
+}
+#Intro
+{font-family: 'Sacramento', cursive;
+    font-size: 2em;
+}
+
+
+
+hr{
+    width: 4%;
+   border-style: none;
+   border-top-style: dotted;
+   border-width: 4px;
+   border-color: grey;
+      
+   }
+.list
+{    
+   margin-bottom: 5px;
+}
+.workdata
+{
+    padding-left: 25px;
+}
+a
+{
+    color: purple;
+}
+a:hover
+{
+    color: green;
+}
