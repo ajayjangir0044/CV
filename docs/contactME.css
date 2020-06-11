@@ -1,0 +1,48 @@
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+}
+
+body {
+    background-color: #EAF6F6;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.p1 {
+    font-family: 'Muli', sans-serif;
+}
+
+hr {
+
+    background-color: gray;
+    transform: translate(0px, -10px);
+    border-width: 0px;
+    height: 1px;
+}
+
+input[type="text"],
+input[type="email"] {
+
+    background: transparent;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid black;
+}
+
+button[type="submit"] {
+    border: none;
+    outline: none;
+    border-radius: 20px;
+    width: 100px;
+    height: 40px;
+    margin-top: 20px;
+    font-size: 15px;
+    
+
+    background-color: #aacfcf;
+}
+
+button[type="submit"]:hover {
+    color:green;
+}
